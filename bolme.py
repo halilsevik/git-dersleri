@@ -1,0 +1,1 @@
+bu ikinci cümle
