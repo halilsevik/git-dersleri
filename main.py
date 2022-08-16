@@ -1,4 +1,4 @@
-def topla(a,b):
+def carpma(a,b):
 	return a+b
 
 def merhaba():
