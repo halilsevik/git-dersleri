@@ -1,2 +1,2 @@
-def topla(x,y):
-	return x+y
+def topla(a,b):
+	return a+b
